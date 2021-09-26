@@ -26,13 +26,13 @@ cd math-prog/cpo-dataset/machine-learn/WDBC/
 
 Ten real-valued features are computed for each cell nucleus:
 
-- radius (mean of distances from center to points on the perimeter)
-- texture (standard deviation of gray-scale values)
-- perimeter
-- area
-- smoothness (local variation in radius lengths)
-- compactness (perimeter^2 / area - 1.0)
-- concavity (severity of concave portions of the contour)
-- concave points (number of concave portions of the contour)
-- symmetry
-- fractal dimension ("coastline approximation" - 1)
+- Radius (mean of distances from center to points on the perimeter)
+- Texture (standard deviation of gray-scale values)
+- Terimeter
+- Area
+- Smoothness (local variation in radius lengths)
+- Compactness (perimeter^2 / area - 1.0)
+- Concavity (severity of concave portions of the contour)
+- Concave points (number of concave portions of the contour)
+- Symmetry
+- Fractal dimension ("coastline approximation" - 1)
